@@ -21,16 +21,17 @@ phones: ["AA", "AE", "AH", "AO", "AW", "AY", "B", "CH", "D", "DH", "EH", "ER", "
 </div>
 
 {% for phone in page.phones %}
-<div class="phone-display">
+<div class="phone-display" style="margin-top:5px;margin-bottom:5px">
     <h3>{{phone}}</h3>
     <div style="float:left;margin-right:5px;">
-      <img src="{{site.url}}{{site.baseurl}}/images/phones/{{phone}}_frontal.png" height="350" width="350"  />
+      <img src="{{site.url}}{{site.baseurl}}/images/phones/{{phone}}_frontal.png" height="365" width="365"  />
       <p style="text-align:center;">frontal view</p>
     </div>
     <div style="float:left;margin-right:5px;">
-        <img src="{{site.url}}{{site.baseurl}}/images/phones/{{phone}}_sagittal.png" height="350" width="350" />
+        <img src="{{site.url}}{{site.baseurl}}/images/phones/{{phone}}_sagittal.png" height="365" width="365" />
         <p style="text-align:center;">sagittal view</p>
     </div>
 </div>
+<br>
 <hr>
 {% endfor %}

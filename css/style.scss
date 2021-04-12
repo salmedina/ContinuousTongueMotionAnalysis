@@ -83,6 +83,14 @@ ul, ol, dl, figure,
 }
 
 
+/**
+ * Line breaks
+ */
+hr {
+    height: 0.01px;
+    background-color: #999;
+}
+
 
 /**
  * Images
@@ -168,6 +176,13 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+}
+
+/**
+ * Phone display
+ */
+.phone-display {
+  margin-bottom:10px;
 }
 
 
