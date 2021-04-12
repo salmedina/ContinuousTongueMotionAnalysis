@@ -11,13 +11,13 @@ phones: ["AA", "AE", "AH", "AO", "AW", "AY", "B", "CH", "D", "DH", "EH", "ER", "
 <div class="abstract">
     <h1>Description</h1>
     <p>
-    In this section we display the mean pose of the tongue, lips, and jaw per phone. In our work we used 39 phones without stress from CMUDict. To calculate the pose per phone, first we obtained the sequence of poses per phone by tagging the sequences through
-    Montreal Forced Aligner. Then we obtained the mid pose from each phone sample's sequence, and finally we obtain the mean pose per phone. The frontal and sagittal views of each phone are shown in the following figures:
+    This section displays the tongue, lips, and jaw pose from our data on a phone level basis. In our work, we used 39 phones without stress from CMUDict as we obtained the sequence of poses per phone by tagging the mocap sequences through the Montreal Forced Aligner. Then we obtained the mid pose from each phone's samples' sequences. Finally, we computed the mean pose per phone from all the mid poses. 
     </p>
 </div>
 
 <div class="gallery">
     <h1>Visualization</h1>
+    In this section we visualize the frontal and sagittal views of each phones mean mid pose. The colored spheres represent the sensors, the red mesh represents the tongue, the palate's surface is an approximation from three sagittal and coronal traces. The lips and jaw are just displayed for reference and do not represent their actual size.
 </div>
 
 {% for phone in page.phones %}
