@@ -384,15 +384,23 @@ pre {
   position: relative;
 }
 .site-title {
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 100;
   font-family: 'PT Sans';
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
+  margin-bottom: 0.5em;
 }
 .site-description {
-  font-size: 24px;
+  font-size: 22px;
+  letter-spacing: 2px;
+  text-indent: 6px;
+  font-family: 'Josefin Sans';
+  margin-bottom: 0.5em;
+}
+.site-subdescription {
+  font-size: 13px;
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';

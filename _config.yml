@@ -6,9 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Continuous Tongue Motion Analysis
+title: Importance of Parasagittal Sensor Information in Tongue Motion Capture through a Diphonic Analysis
 email: 
-description: Salvador Medina, Sarah Taylor, Mark Tiede, Iain Matthews
+description: Salvador Medina<sup>1</sup>, Sarah Taylor<sup>2</sup>, Mark Tiede<sup>3</sup>,<br>Iain Matthews<sup>4</sup>
+subdescription: <sup>1</sup>Carnegie Mellon University, <sup>2</sup>East Anglia University, <sup>3</sup>Haskins Laboratories, <sup>4</sup>Epic Games
 baseurl: "/ContinuousTongueMotionAnalysis" # the subpath of your site, e.g. /blog
 url: "http://salmedina.github.io" # the base hostname & protocol for your site
 twitter_username: 
