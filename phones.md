@@ -10,9 +10,8 @@ phones: ["AA", "AE", "AH", "AO", "AW", "AY", "B", "CH", "D", "DH", "EH", "ER", "
 
 <div class="abstract">
     <h1>Description</h1>
-    <p>
+
     This section displays the tongue, lips, and jaw pose from our data on a phone level basis. In our work, we used 39 phones without stress from CMUDict as we obtained the sequence of poses per phone by tagging the mocap sequences through the Montreal Forced Aligner. Then we obtained the mid pose from each phone's samples' sequences. Finally, we computed the mean pose per phone from all the mid poses. 
-    </p>
 </div>
 
 <div class="gallery">
