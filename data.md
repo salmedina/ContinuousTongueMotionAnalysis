@@ -18,20 +18,12 @@ tagline: "Description"
 
 <div class="teaser">
   <div style="float:left;margin-right:5px;">
-      <img src="{{site.url}}/{{site.baseurl}}/images/data/tongue_sensors.png" height="350" width="700"  />
+      <img src="{{site.url}}/{{site.baseurl}}/images/data/tongue_sensors.png" height="234" width="700"  />
       <p style="text-align:center;">Sensor Placement</p>
   </div>
 </div>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
-.tg td{border-color:#999;border-style:solid;border-width:1px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:#999;border-style:solid;border-width:1px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
