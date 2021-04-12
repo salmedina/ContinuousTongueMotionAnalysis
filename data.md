@@ -15,3 +15,70 @@ tagline: "Description"
 </p>
 
 </div>
+
+<div class="teaser">
+  <div style="float:left;margin-right:5px;">
+      <img src="{{site.url}}/{{site.baseurl}}/images/data/tongue_sensors.png" height="350" width="700"  />
+      <p style="text-align:center;">Sensor Placement</p>
+  </div>
+</div>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
+.tg td{border-color:#999;border-style:solid;border-width:1px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:#999;border-style:solid;border-width:1px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Landmark</th>
+    <th class="tg-fymr">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">TD</td>
+    <td class="tg-0pky">Tongue Dorsum, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TB</td>
+    <td class="tg-0pky">Tongue Blade, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">BR</td>
+    <td class="tg-0pky">Tongue Blade, Right Para-sagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">BL</td>
+    <td class="tg-0pky">Tongue Blade, Left Para-sagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">TT</td>
+    <td class="tg-0pky">Tongue Tip, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">UL</td>
+    <td class="tg-0pky">Upper Lip, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LC</td>
+    <td class="tg-0pky">Center Lip, Right Commisure, Parasagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LL</td>
+    <td class="tg-0pky">Lowe Lip, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LI</td>
+    <td class="tg-0pky">Jaw, Incisors, Midsagittal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">LJ</td>
+    <td class="tg-0pky">Jaw, 1st Premolar and Canine, Parasagittal</td>
+  </tr>
+</tbody>
+</table>
