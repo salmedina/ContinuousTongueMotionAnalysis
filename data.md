@@ -14,6 +14,7 @@ tagline: "Description"
     Acoustics and articulatory movement were recorded using a Carstens AG501 EMA device. Passive transducers were attached to speech articulators using medical-grade cyanoacrylateglue. Three sensors were placed midsagittally on the tongue surface, one sensor on the tongue dorsum (TD), one on the tongue blade (TB), and one behind the tongue tip (TT). Two more sensors were parasagittally placed to the left (BL) and right (BR) of the tongue blade. Three additional sensors were placed on the lips, two were midsagittally attached on the upper(UL) and lower lips (LL) at the vermillion border, and one on the right corner (LC) of the lips. Additionally, two sensors were placed on the jaw on the gingiva below the medial incisors (LI)and between the canine and first premolar (LJ).
     
 </div>
+<br>
 
 <div class="teaser">
   <div style="float:left;margin-right:5px;">
@@ -21,7 +22,7 @@ tagline: "Description"
       <p style="text-align:center;">Sensor Placement</p>
   </div>
 </div>
-
+<br>
 
 <table class="tg">
 <thead>
